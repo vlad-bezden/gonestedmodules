@@ -1,0 +1,13 @@
+nestedmodule
+|   go.mod
+|   main.go
+|
+\---internal
+    +---bar
+    |       bar.go
+    |       go.mod
+    |
+    \---foo
+            foo.go
+            go.mod
+
